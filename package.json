@@ -13,11 +13,13 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "deploy": "gatsby build && gh-pages -d public -b deploy"
   },
   "dependencies": {
     "gatsby": "^4.15.0",
     "gatsby-plugin-sass": "^5.15.0",
+    "gh-pages": "^4.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "sass": "^1.52.1"
