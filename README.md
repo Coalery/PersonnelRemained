@@ -17,5 +17,5 @@ npm run develop
 
 ```sh
 npm install
-npm run develop
+npm run deploy
 ```
