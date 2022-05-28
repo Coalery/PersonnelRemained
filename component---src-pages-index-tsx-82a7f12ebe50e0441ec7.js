@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpersonnel_remained=self.webpackChunkpersonnel_remained||[]).push([[691],{6817:function(e,n,t){t.r(n);var l=t(7294),r={color:"#232129",padding:96,fontFamily:"-apple-system, Roboto, sans-serif, serif"};n.default=function(){return l.createElement("main",{style:r},l.createElement("title",null,"러리의 산업기능요원 현황"))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-82a7f12ebe50e0441ec7.js.map
