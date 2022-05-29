@@ -1,11 +1,12 @@
-import type { GatsbyConfig } from "gatsby";
+import type { GatsbyConfig } from 'gatsby';
 
 const config: GatsbyConfig = {
   siteMetadata: {
     title: `Personnel Remained`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: ["gatsby-plugin-sass"]
+  plugins: ['gatsby-plugin-sass'],
+  pathPrefix: '/PersonnelRemained',
 };
 
 export default config;
